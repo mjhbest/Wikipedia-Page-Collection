@@ -30,5 +30,6 @@ We Selected each articles category based on wikidata "instance of" label. Detail
 The output collected page csv file includes below instances.
 - QID
 - PageId
+- Page Title
 - Language
 - Category
