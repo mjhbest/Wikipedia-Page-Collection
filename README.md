@@ -18,7 +18,7 @@ Collection Timestamp is November 20th, 2020. We used three kind
 Pagelinks dump is used to get the 'COVID related pages'. Wikidata pageids of seed related pages are collected. 
 ### 2. Wikidata page.sql
 Wikidata QIDs of COVID related pages are retrieved from wikidata pageids which collected in previous step by using page.sql file.
-### 3. Wikipedia_page_prop.sql
+### 3. Wikipedia_page_prop.sql -(Each 11 languages)
 Page_prop dump file for each language is a good way to get wikipedia pageid from wikidata QID. We used 11 languages' page_prop sql file is used to collect pageid.
 
 ## Datails
