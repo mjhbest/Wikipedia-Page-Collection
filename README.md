@@ -21,7 +21,7 @@ Wikidata QIDs of COVID related pages are retrieved from wikidata pageids which c
 ### 3. Wikipedia_page_prop.sql -(Each 11 languages)
 Page_prop dump file for each language is a good way to get wikipedia pageid from wikidata QID. We used 11 languages' page_prop sql file is used to collect pageid.
 
-## Datails
+## Details
 ### Seed Items
 Three seeds for retrieving COVID related articles are "[COVID-19](https://www.wikidata.org/wiki/Q84263196)" (Q84263196), "[COVID-19 pandemic](https://www.wikidata.org/wiki/Q81068910)" (Q81068910), "[SARS-CoV-2](https://www.wikidata.org/wiki/Q82069695)" (Q82069695).
 ### Category
