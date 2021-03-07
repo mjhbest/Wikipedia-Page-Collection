@@ -7,10 +7,10 @@ This collection code is based on wikimedia dump files which released by [Wikimed
 
 This is a way to collect COVID-related wikipedia article data by running code after downloading wikidata and wikipedia dump files.  
 Code is not a method using SPARQL wrapper.  
-Collection Timestamp is November 20th, 2020. We used three kind  
+Collection Timestamp is November 20th, 2020. We used following Wikipedia dumps  
 
 ## Used Dumps
-#### Since Wikipedia article data is enormous to use, three kinds of wikimedia dump files are used to utilize code effectively.
+#### Since Wikipedia article data is enormous to use, three types of wikimedia dump files are used to utilize code effectively.
 * Wikidata pagelink.sql
 * Wikidata page.sql
 * Wikipedia_page_prop.sql
