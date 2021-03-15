@@ -8,9 +8,9 @@ This collection code is based on wikimedia dump files which released by [Wikimed
 This is a way to collect COVID-related wikipedia article data by running code after downloading wikidata and wikipedia dump files.    
 Default timestamp for collection is November 20th, 2020. We used following Wikipedia dumps  
 ## Collected Data
-* **COVID Related Pages**
-* **Pageviews for Relatd Articles**
-* **Edit Logs of Related Articles**
+1. **COVID Related Pages**
+2. **Pageviews for Relatd Articles**
+3. **Edit Logs of Related Articles**
 <br/><br/>
 
 # Used Dumps
