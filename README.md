@@ -24,11 +24,11 @@ Page_prop dump file for each language is a good way to get wikipedia pageid from
 ## 4. Wikipedia_history_dump  
 To get the revision data for set-up duration, wikipedia history xml file was used.<br/><br/>
 
-# Details
+# Details & Outpts
 ## Seed Items
 Three seeds for retrieving COVID related articles are "[COVID-19](https://www.wikidata.org/wiki/Q84263196)" (Q84263196), "[COVID-19 pandemic](https://www.wikidata.org/wiki/Q81068910)" (Q81068910), "[SARS-CoV-2](https://www.wikidata.org/wiki/Q82069695)" (Q82069695).
 
-## Related Articles Output
+## Related Articles
 The collected pages csv file includes below instances.
 - QID
 - PageId
@@ -36,12 +36,12 @@ The collected pages csv file includes below instances.
 - Language
 - Category
 
-## Revision Output  
+## Revision
 - PageID
 - Bytes
 - Revision ID
 - Timestamp
 
-## PageViews Output
+## PageViews
 - Timestamps for duration (stardate ~ enddate)
 - Daily Pageviews
