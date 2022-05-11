@@ -1,5 +1,5 @@
-# Wiki_COVID-disp Data Collection Code
-IBS KAIST DSLAB WikiCOVID Data Collection Code
+# Wikipedia Topic(COVID) Related Data Collection Code
+WIkipedia Data Collection Code
 --- 
 # Wikimedia Dump
 
